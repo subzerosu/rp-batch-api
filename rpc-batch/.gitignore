@@ -1,0 +1,24 @@
+# Java
+*.class
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# maven
+/target/
+
+# eclipse
+/.settings/
+/.classpath
+/.project
+/bin/
+/build/
+
+# OsX
+/.DS_Store
+Icon?
+._*
+.Spotlight-V100
+.Trashes
